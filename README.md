@@ -3,6 +3,8 @@
 This repository accompanies the paper "Human Brain Networks", by Giancarlo Antonucci, submitted as part of the MSc in 
 Mathematical Modelling and Scientific Computing at The University of Oxford.
 
+The main features of the human brain are still unclear. In this project, I explored some of its basic mechanisms. In particular, I studied some datasets of human brain networks, comparing them to small world and scale free networks, and studying their Laplacian matrices. A generative model was proposed too.
+
 --------------------------
 
 Datasets:
